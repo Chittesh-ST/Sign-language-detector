@@ -2,7 +2,7 @@
 
 A Computer Vision and Deep Learning application that detects and translates static hand gestures into text in real-time. Built with **MediaPipe** for landmark extraction and **PyTorch** for gesture classification.
 
-![Python](https://img.shields.io/badge/Python-3%2B-blue)
+![Python](https://img.shields.io/badge/Python%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Real%20Time-yellow)
